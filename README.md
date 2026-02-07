@@ -1,0 +1,1 @@
+# TesteAutomatizado_QAPlayground_Cypress
